@@ -1,0 +1,15 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "Customer Relationship Management",
+  "main": "main.js",
+  "repository": "git@github.com:seryozhabaleyko/crm.git",
+  "author": "Sergey Baleyko <seryozha.baleyko@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
